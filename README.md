@@ -34,7 +34,7 @@ projet-chiffre-mystere/
 │    └─ personnage2.jpg
 └─ README.md              # Ce fichier
 
-'''
+```
 ---
 
 ## 🚀 Comment utiliser
