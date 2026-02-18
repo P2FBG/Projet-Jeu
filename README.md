@@ -38,9 +38,10 @@ Le joueur doit **deviner un chiffre compris entre 0 et 9** en **3 essais maximum
 ## 🚀 Comment utiliser
 
 ### 1️⃣ Pour le jeu Python
-1. Ouvrir `jeu.py`
-2. Lancer le programme
-3. Suivre les instructions dans la console
+1. Téléchargement du fichier : [📥 Télécharger le jeu Python](jeu.py)  
+2. Ouvrir `jeu.py`
+3. Lancer le programme
+4. Suivre les instructions dans la console
 
 ### 2️⃣ Pour le site web
 1. Ouvrir `index.html` dans un navigateur
@@ -60,9 +61,6 @@ https://P2FBG.github.io/Projet-Jeu
 
 ---
 
-Téléchargement du fichier : [📥 Télécharger le jeu Python](jeu.py)  
-
-
-🎓 Projet réalisé dans le cadre du cours NSI Terminale
+🎓 Projet réalisé dans le cadre du cours NSI Terminale au lycée Paul Lapie
 
 
