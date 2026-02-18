@@ -18,6 +18,21 @@ Le joueur doit **deviner un chiffre compris entre 0 et 9** en **3 essais maximum
 - Possibilité de découvrir le jeu via le site web pour comprendre les règles
 
 ---
+
+## 📂 Contenu du dépôt
+
+    projet-chiffre-mystere/
+    │
+    ├─ jeu_chiffre.py
+    ├─ index.html
+    ├─ page2.html
+    ├─ style.css
+    ├─ images/
+    │    ├─ image1.jpg
+    │    └─ image2.jpg
+    └─ README.md
+
+
 ## 📂 Contenu du dépôt
 
 ```text
