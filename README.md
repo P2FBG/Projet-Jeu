@@ -1,16 +1,16 @@
 # Jeu du Chiffre Mystère
 
-Projet réalisé dans le cadre du cours **NSI Terminale**.
+Projet réalisé dans le cadre du cours **NSI Terminale** du lycée Paul Lapie.
 
 ---
 
-## 🎯 Objectif du jeu
+## Objectif du jeu
 Le joueur doit **deviner un chiffre compris entre 0 et 9** en **3 essais maximum**.  
 À chaque proposition, le programme indique si le chiffre à deviner est **plus grand ou plus petit** que le chiffre proposé.
 
 ---
 
-## 🖥 Fonctionnalités
+## Fonctionnalités
 - Jeu Python interactif (`jeu.py`)
 - Indications “plus grand / plus petit”
 - Limite à **3 essais** par partie
@@ -19,7 +19,7 @@ Le joueur doit **deviner un chiffre compris entre 0 et 9** en **3 essais maximum
 
 ---
 
-## 📂 Contenu du dépôt
+## Contenu du dépôt
 
     │
     ├─ README.md
@@ -35,13 +35,11 @@ Le joueur doit **deviner un chiffre compris entre 0 et 9** en **3 essais maximum
     
 ---
 
-## 🚀 Comment utiliser
+## Comment utiliser
 
 ### 1️⃣ Pour le jeu Python
-1. Téléchargement du fichier : [📥 Télécharger le jeu Python](jeu.py)  
-2. Ouvrir `jeu.py`
-3. Lancer le programme
-4. Suivre les instructions dans la console
+1. Ouvrir `jeu.py`
+2. Suivre les instructions dans la console
 
 ### 2️⃣ Pour le site web
 1. Ouvrir `index.html` dans un navigateur
@@ -49,18 +47,17 @@ Le joueur doit **deviner un chiffre compris entre 0 et 9** en **3 essais maximum
 
 ---
 
-## 💻 Technologies utilisées
+## Technologies utilisées
 - **Python** pour le jeu
 - **HTML & CSS** pour le site web
-- **Images JPG** pour l’illustration du site
 
 ---
 
-## 🔗 Lien vers le site de présentation
+## Lien vers le site de présentation
 https://P2FBG.github.io/Projet-Jeu
 
 ---
 
-🎓 Projet réalisé dans le cadre du cours NSI Terminale au lycée Paul Lapie
+Projet réalisé dans le cadre du cours NSI Terminale au lycée Paul Lapie
 
 
