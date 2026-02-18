@@ -60,6 +60,9 @@ https://P2FBG.github.io/Projet-Jeu
 
 ---
 
+Téléchargement du fichier : [📥 Télécharger le jeu Python](jeu.py)  
+
+
 🎓 Projet réalisé dans le cadre du cours NSI Terminale
 
 
