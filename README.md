@@ -4,10 +4,15 @@ Projet réalisé dans le cadre du cours **NSI Terminale** du lycée Paul Lapie.
 
 ---
 
-## Objectif du jeu
+## Objectif et règles du jeu
 Le joueur doit **deviner un chiffre compris entre 0 et 9** en **3 essais maximum**.  
 À chaque proposition, le programme indique si le chiffre à deviner est **plus grand ou plus petit** que le chiffre proposé.
-
+- Vous entrez un nombre en appuyant sur A ou B.
+- A permet de faire défiler le chiffre vers 0 alors que B permet de faire défiler le chiffre vers 9.
+- Ensuite il faut appuyer sur la touche "logo" pour valider le choix.
+- Le jeu vous indiquera si le nombre à deviner est plus petit ou plus grand que celui choisi.
+- Devinez en 3 essais maximum, et c'est gagné !
+  
 ---
 
 ## Fonctionnalités
